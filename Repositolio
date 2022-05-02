@@ -1,0 +1,345 @@
+# Umpalunpa
+Repositório para sites e projetos n terminados de estudos 
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doces Incriveis </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1> 
+            GabyVerso
+        </h1>
+        <p>
+            Gastronomia
+        </p>
+        <nav>
+            <ul>          
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Redes Sociais</a>
+                    <ul>
+                        <li><a href="#">Instagran</a></li>
+                        <li><a href="#">Twitter</a></li>
+                        <li><a href="#">Youtube</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Artigos</a></li>  
+                
+            </ul>
+    </nav>
+    </header>
+    
+    <main>
+        <article>
+            <h2>Conheça os benefícios do sorvete: você nunca mais vai querer ficar sem!
+
+            </h2>           
+            <p>                
+                Você sabia que o sorvete pode trazer diversos benefícios para a sua saúde? Além de ser delicioso, essa delícia conta com excelentes vantagens nutricionais e ainda proporciona bem estar.
+            </p> 
+            <p>  
+                Claro que para ser um consumo benéfico, precisa ser apreciado moderadamente! 
+            </p> 
+            <p>
+                O sorvete é indicado para diversas situações além das tardes ensolaradas, como para crianças em fase de crescimento – já que proporciona diversos nutrientes e é uma fonte de energia. 
+            </p>
+            <p>
+                Também é uma solução para pós-operatórios. Por ser gelado, o sorvete conta com propriedades analgésicas, evita hemorragias e náuseas. 
+            </p>
+            <p>
+                Esses são alguns benefícios do sorvete para a saúde, mas não todos! Vamos ver como o consumo consciente de sorvetes pode ser vantajoso no seu dia a dia para a saúde física e mental.
+            </p>
+            <img src="sorvete2.png" alt="Sorvetes em copo">
+            <h2>
+                Benefícios do sorvete!
+            </h2>
+            <p>
+                Como dissemos, o sorvete é uma sobremesa completa! Existem muitos estudos que comprovam os seus benefícios, que não são poucos. 
+            </p>
+            <p>
+                Vamos então nos aprofundar em cada um deles para que não restem dúvidas. Temos certeza que nenhuma desculpa será capaz te fazer ficar sem!
+            </p>
+            <aside>
+                <h3>
+                    Valor nutricional
+                </h3>
+                <p>
+                    O valor nutricional é o principal benefício dos sorvetes. Quando comparado à outras sobremesas, o sorvete é uma fonte dos principais nutrientes que precisamos no nosso corpo, por isso, é um alimento ideal para ser consumido não só no verão mas também nas estações do ano.
+                </p>
+                <ul>
+                    <li>Fonte de cálcio: Os sorvetes que levam leite na receita são fontes consideráveis desse mineral, responsável por desenvolver e manter a saúde dos ossos e dos dentes, ajudar na regularização dos batimentos cardíacos, auxiliar na coagulação sanguínea, limpar as células de gordura do organismo, entre outras vantagens;</li>
+                    <li>Fonte de fósforo: este é um componente essencial para o corpo humano.</li>
+                </ul>
+                <p>  
+                    Atua em diversas regiões, como cérebro, coração, sangue, rim, etc. Ainda tem mais benefícios, porque auxilia no bom funcionamento do cérebro, na formação de proteína, no equilíbrio hormonal e na digestão;   
+
+                </p>
+                <ul>
+                    <li>
+                    Fonte de diversas vitaminas: um grande diferencial desta sobremesa é a questão das vitaminas. O sorvete contém vitaminas A, B1, B2, B6, C, D e K. 
+                    </li>
+                </ul>
+                <p>
+                    Cada uma tem sua importância e seu benefício para o corpo. Por exemplo, a B1 atua na manutenção do um sistema nervoso e na melhora do funcionamento cardiovascular.
+                </p>
+                <img src="sorvete.png" alt="Sorvetes">
+                <h3>
+                    Repõe a energia
+                </h3>
+                <p> 
+                    Como vimos acima, o sorvete tem um potente valor nutricional, assim como proteínas e carboidratos. 
+                </p>
+                <p>
+                    Esses componentes proporcionam bastante energia para o corpo. Desta forma, há mais disposição para cumprir com as tarefas do dia a dia.
+                </p>
+                <h3>
+                    Estimula o bem estar
+                </h3>
+                <p>
+                    Este ponto não é surpresa para ninguém, todos sabemos que sorvete traz felicidade! Mas não é somente uma suposição. 
+                </p>
+                <p>
+                    Estudos do Centro de Medicina da Universidade de Maryland, nos Estados Unidos, comprovam que o sorvete diminui estresse, alguns sentimentos negativos e produz “hormônios da felicidade” no corpo humano. 
+                </p>
+                <p>
+                    Isso porque o sorvete contém triptofano, um aminoácido que acalma e reduz a agressividade, aumentando a produção de serotonina, o famoso hormônio do bem-estar. É essa mistura que ajuda a melhorar a qualidade de vida das pessoas. 
+                </p>
+                <h3>   
+                    Não esqueça! Para fazer bem, tem que ter consumo consciente
+
+                </h3>
+                <p>
+                    Este ponto não é surpresa para ninguém, todos sabemos que sorvete traz felicidade! Mas não é somente uma suposição. 
+                </p>
+
+                <p> 
+                    Estudos do Centro de Medicina da Universidade de Maryland, nos Estados Unidos, comprovam que o sorvete diminui estresse, alguns sentimentos negativos e produz “hormônios da felicidade” no corpo humano.
+                </p> 
+
+                <p> 
+                    Isso porque o sorvete contém triptofano, um aminoácido que acalma e reduz a agressividade, aumentando a produção de serotonina, o famoso hormônio do bem-estar. É essa mistura que ajuda a melhorar a qualidade de vida das pessoas.                   
+
+                </p>
+            </aside>
+            <img src="sunday.png" alt="sunday-de-copo">
+            <h2>
+                Não esqueça! Para fazer bem, tem que ter consumo consciente
+
+            </h2>
+            <p>
+                Como todos os alimentos, o sorvete deve ser consumido com moderação. Não indicamos incluir este produtos em exagero na dieta!
+            </p>
+             <p>
+                Apesar de ser muito benéfico para o corpo humano, pelo valor nutricional e bem estar, é um produto que não deixa de ser calórico. Então, o segredo é a moderação! 
+            </p>
+            <p>
+                Há diversas opções de sorvete na Perfetto – de frutas, menos calóricos, mais nutritivos, sorvete de palito e em diversos outros formatos. Tudo para você escolher o mais benéfico para sua saúde e escolher a opção perfeita para incluir sorvete no seu dia a dia.
+
+            </p>
+        </article>
+    </main>
+    <footer>
+        <p> William Ramos &copy;</p>
+    </footer>
+    
+</body>
+</html>
+
+<style>
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    margin: auto;
+    padding: 0%;
+    box-sizing: border-box;
+
+
+}
+:root{
+    --font-padrão:'Bebas Neue';
+    --font-animada:'Pacifico';
+    --font-robot:'Roboto', sans-serif;
+    --color1: #4E25A3;
+    --color2: #A375FF; 
+    --color3: #8956F0;
+    --color4: #A39B1A;
+    --color5: #F0E756;
+}
+img{
+    width:80%;
+    display: block;
+    margin: auto;
+    
+}
+
+header{
+    background-image: linear-gradient(to bottom , var(--color1), var(--color3));
+    height: 190px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0px 3px 5px 2px rgba(0, 0, 0, 0.263) ;
+
+    
+
+}
+header > h1{
+    font-family: var(--font-animada);
+    color: white;
+    font-weight: lighter;
+    font-size: 3em;
+    padding-bottom: 10px;
+}
+header > p {
+    font-family: var(--font-robot);
+    color: aliceblue;
+
+}
+nav{
+    margin-top: 30px;
+    
+    
+}
+nav ul{
+    position: relative;
+}
+nav ul li {
+    display: inline;
+    position: relative;
+    
+}
+nav ul ul li a{
+    background-image: linear-gradient(to bottom , var(--color3), var(--color1));
+}
+nav ul li a{
+    padding: 5px 5px 5px 5px;
+    margin-left: 0px;
+    background-image: linear-gradient(to bottom , var(--color3), var(--color1));
+    font-family: var(--font-robot);
+    text-decoration: none;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+    position: relative;
+    border:solid;
+    border-color: white;
+    border-image: linear-gradient(to bottom , var(--color3), var(--color1));
+    
+
+
+    
+}
+nav> ul li a:hover{
+    
+    background: var(--color5);
+    color: var(--color1);
+    transition-duration: 0.5s;
+}
+nav> ul ul li a:hover{
+    background: var(--color5);
+    color: var(--color1);
+    transition-duration: 0.5s;
+}
+nav ul ul{
+    display: none;
+    position: absolute;
+    left: 0;
+    
+}
+nav> ul li:hover ul {
+    display: block;
+    transition-duration: ease 1s;
+}
+nav ul ul {
+    width: 115px;
+}
+nav ul ul li a{
+    display: block;
+    margin: 3px;
+    
+}
+
+
+main{
+    width: 100%;
+    height: 100%;
+    
+    background-image: linear-gradient(to bottom, var(--color5) 80%, var(--color4));
+    padding-top: 20px;
+
+}
+article{ 
+    max-width: 800px;
+    min-width: 320px ;
+    background: white;
+    border-radius: 7px;
+    padding: 15px;
+    
+}
+article >h2{
+    font-family: var(--font-animada);
+    font-weight: lighter;
+    text-align: center;
+    color: #A375FF;
+}
+article >p{
+    font-family: var(--font-robot);
+    text-align: justify;
+    padding: 7px;
+}
+
+aside > h3 { 
+    font-family: var(--font-animada);
+    text-align: center;
+    font-weight: lighter;
+    padding: 7px;
+    color: var(--color5);
+    
+
+
+}
+aside > ul {
+    list-style-position:inside ;
+    text-align: justify;
+}
+aside > ul li {
+    font-family: var(--font-robot);
+    font-size: 0.9em;
+    padding: 10px;
+    text-align: justify; 
+    color: aliceblue; 
+}
+aside > p{
+    font-family: var(--font-robot);
+    text-align: justify;
+    color: aliceblue;
+}
+aside{
+    background: var(--color2);
+    padding: 10px;
+    border-radius: 0px 20px 0px 20px;
+    box-shadow: 0px 7px 7px 3px var(--color1) ;
+    
+
+}
+aside:hover{
+    box-shadow: 0px 7px 7px 3px #4f25a341 ;
+    transition-duration: 2s;
+}
+footer{
+    background: var(--color1);
+    color: white;
+    font-family: var(--font-robot);
+    text-align: center;
+    height: 40px;
+    padding: 10px;
+
+}
+</style>
+
